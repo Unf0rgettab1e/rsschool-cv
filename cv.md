@@ -9,6 +9,7 @@ Phone: +375336908375
 Since I really like apple technologies, in the future I see myself as an IOS developer. At the moment I am trying to develop myself in this direction and I would still like to get practical skills at a more serious level.*
 ### Skills:
 **Programming language**: C++, Swift, Python, SQL
+__IDE__: Visual Studio, Xcode
 ### Additional skills:
 Ability to use Git + GitHub
 Knowledge mathematics and mathematical logic required to develop
